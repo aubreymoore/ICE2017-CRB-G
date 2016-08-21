@@ -40,18 +40,20 @@ Ron Weeks
 
 Phil Andreozzi
 
-**AgResearch New Zealand**
+####AgResearch New Zealand
 Sean Marshall
-
 Trevor Jackson
 
-**University of Guam**
+####Pacific Community (SPC)
+Maclean Vaqalo
+
+####University of Guam
 Aubrey Moore
 
-**Hawaii Departmentof Agriculture**
+####Hawaii Departmentof Agriculture
 Darcy Oishi
 
-**Malaysian Palm Oil Board**
+####Malaysian Palm Oil Board
 Ramle Moslim
 
 
