@@ -26,6 +26,10 @@ Coming soon.
 #### Hawaii Departmentof Agriculture
 * Darcy Oishi
 
+#### University of Hawaii
+* Shizu Watanabe
+* Zhiqiang Cheng
+
 #### Malaysian Palm Oil Board
 * Ramle Moslim
 
