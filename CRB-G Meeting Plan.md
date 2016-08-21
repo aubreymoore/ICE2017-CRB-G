@@ -1,3 +1,35 @@
+#Plans for a Meeting to Discuss a Response to CRB-G#
+
+We have tentative plans for an informal meeting to discuss a Response to CRB-G during
+the evening of the scarab beetle symposium at the International Congress of Entomology in Orlando, Florida
+on Monday, September 26. 
+
+## Draft Agenda
+Coming soon.
+
+## Suggested Invitees
+ 
+#### USDA-APHIS
+* Ron Weeks
+* Phil Andreozzi
+
+#### AgResearch New Zealand
+* Sean Marshall
+* Trevor Jackson
+
+#### Pacific Community (SPC)
+* Maclean Vaqalo
+
+#### University of Guam
+* Aubrey Moore
+
+#### Hawaii Departmentof Agriculture
+* Darcy Oishi
+
+#### Malaysian Palm Oil Board
+* Ramle Moslim
+
+## Papers Relevent to CRB-G to be Presented at the Scarab Beetle Symposium
 
 Data source: https://esa.confex.com/esa/ice2016/meetingapp.cgi/Session/26139
 
@@ -32,28 +64,6 @@ Ramle Moslim (ramle@mpob.gov.my) and Norman Kamarudin, Malaysian Palm Oil Board,
 05:15 PM **Poster Session**
 SD0821 **An eradication program for rhinoceros beetle in Hawaiʻi**
 Darcy Oishi (Darcy.E.Oishi@Hawaiʻi.gov), Division of Plant Industry, Honolulu, HI
-
-##Suggested Invitation List for CRB-G Meeting
- 
-####USDA-APHIS
-* Ron Weeks
-* Phil Andreozzi
-
-####AgResearch New Zealand
-* Sean Marshall
-* Trevor Jackson
-
-####Pacific Community (SPC)
-* Maclean Vaqalo
-
-####University of Guam
-* Aubrey Moore
-
-####Hawaii Departmentof Agriculture
-* Darcy Oishi
-
-####Malaysian Palm Oil Board
-* Ramle Moslim
 
 
 
