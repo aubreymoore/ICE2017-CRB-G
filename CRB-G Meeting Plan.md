@@ -40,20 +40,20 @@ Darcy Oishi (Darcy.E.Oishi@Hawaiʻi.gov), Division of Plant Industry, Honolulu, 
 * Phil Andreozzi
 
 ####AgResearch New Zealand
-*Sean Marshall
-*Trevor Jackson
+* Sean Marshall
+* Trevor Jackson
 
 ####Pacific Community (SPC)
-Maclean Vaqalo
+* Maclean Vaqalo
 
 ####University of Guam
-Aubrey Moore
+* Aubrey Moore
 
 ####Hawaii Departmentof Agriculture
-Darcy Oishi
+* Darcy Oishi
 
 ####Malaysian Palm Oil Board
-Ramle Moslim
+* Ramle Moslim
 
 
 
