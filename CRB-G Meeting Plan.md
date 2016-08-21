@@ -36,13 +36,12 @@ Darcy Oishi (Darcy.E.Oishi@Hawaiʻi.gov), Division of Plant Industry, Honolulu, 
 ##Suggested Invitation List for CRB-G Meeting
 
 ####USDA-APHIS
-Ron Weeks
-
-Phil Andreozzi
+*Ron Weeks
+*Phil Andreozzi
 
 ####AgResearch New Zealand
-Sean Marshall
-Trevor Jackson
+*Sean Marshall
+*Trevor Jackson
 
 ####Pacific Community (SPC)
 Maclean Vaqalo
