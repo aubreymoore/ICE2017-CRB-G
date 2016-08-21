@@ -33,18 +33,18 @@ Coming soon.
 
 Data source: https://esa.confex.com/esa/ice2016/meetingapp.cgi/Session/26139
 
-##169: Symposium: Scarabs without Borders: Lessons from a Century of Invasions
+####169: Symposium: Scarabs without Borders: Lessons from a Century of Invasions
 
 Monday, September 26, 2016  01:30 PM - 05:30 PM
 
-##Organizers
+####Organizers
 Trevor A. Jackson
 AgResearch Ltd
 
 Michael G. Klein
 The Ohio State University
 
-##Papers Relevent to Coconut Rhinoceros Beetle
+#### Presentations Relevent to CRB-G
 01:30 PM
 0806 **Scarabs without borders: Where are they now?**
 Trevor Jackson (trevor.jackson@agresearch.co.nz), AgResearch Ltd, Christchurch, New Zealand
