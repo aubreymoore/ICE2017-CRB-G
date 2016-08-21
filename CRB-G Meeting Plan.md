@@ -37,10 +37,12 @@ Darcy Oishi (Darcy.E.Oishi@Hawaiʻi.gov), Division of Plant Industry, Honolulu, 
 
 **USDA-APHIS**
 Ron Weeks
+
 Phil Andreozzi
 
 **AgResearch New Zealand**
 Sean Marshall
+
 Trevor Jackson
 
 **University of Guam**
