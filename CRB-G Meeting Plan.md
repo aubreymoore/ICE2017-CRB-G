@@ -41,7 +41,7 @@ Coming soon.
 * Rangaswamy Muniappan
 
 #### Western IPM Center
-Amanda Crump
+* Amanda Crump
 
 ## Papers Relevent to CRB-G to be Presented at the Scarab Beetle Symposium
 
