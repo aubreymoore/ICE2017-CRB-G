@@ -12,6 +12,9 @@ Coming soon.
 #### USDA-APHIS
 * Ron Weeks
 * Phil Andreozzi
+ 
+#### USDA-Forest Service
+* Sheri Lee Smith
 
 #### AgResearch New Zealand
 * Sean Marshall
@@ -33,6 +36,12 @@ Coming soon.
 
 #### Malaysian Palm Oil Board
 * Ramle Moslim
+
+#### IPM Innovation Lab, Virginia Tech
+* Rangaswamy Muniappan
+
+#### Western IPM Center
+Amanda Crump
 
 ## Papers Relevent to CRB-G to be Presented at the Scarab Beetle Symposium
 
