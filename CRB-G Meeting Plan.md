@@ -2,7 +2,7 @@
 
 We have tentative plans for an informal meeting to discuss a Response to CRB-G during
 the evening of the scarab beetle symposium at the International Congress of Entomology in Orlando, Florida
-on Monday, September 26. 
+on Tuesday, September 27. 
 
 ## Draft Agenda
 Coming soon.
